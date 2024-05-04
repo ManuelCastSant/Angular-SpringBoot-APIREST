@@ -10,9 +10,9 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title: string = 'Hola mundo Angular desde componente!';
+  title: string = '¡Hola Mundo! Desde Angular 17!';
 
-  users: string[] = ['Pepe', 'Maria', 'Juan', 'Andres', 'Manuel'];
+  users: string[] = ['Pepe', 'Maria', 'Juan', 'Andres', 'Manuel','Julian'];
   //users: string[] = [];
 
   //Visible
